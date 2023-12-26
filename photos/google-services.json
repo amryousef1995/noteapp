@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239419089982",
+    "project_id": "realstate-c6bf2",
+    "storage_bucket": "realstate-c6bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239419089982:android:673cd2e2cd9a9143895d6f",
+        "android_client_info": {
+          "package_name": "com.example.realstate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLF4qZ8ZVlD2vMGXnTxq8EHO5BVzTzD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239419089982:android:4f3919d314706cb1895d6f",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLF4qZ8ZVlD2vMGXnTxq8EHO5BVzTzD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
